@@ -1,0 +1,5 @@
+gymnasium[toy-text]>=0.29
+numpy>=1.24
+matplotlib>=3.7
+jupyter>=1.0
+imageio>=2.31
